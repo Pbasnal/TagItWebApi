@@ -34,14 +34,16 @@ namespace TagItRepository
             {
                 var users = _dbContext.Users.FirstOrDefault(u => phoneNumber == u.PhoneNumber);
 
-                foreach (var hotspot in users.UserHotspots)
+                if (users.UserHotspots == null) return new List<UserHotspotModel>();
+
+                foreach (var hotspot in users.UserHotspots.ToList())
                 {
                     var userHotspot = new UserHotspotModel
                     {
                         PhoneNumber = phoneNumber,
                         Hotspot = new HotspotModel
                         {
-                            Comments = hotspot.HotspotComments.FirstOrDefault(hc => hc.User.PhoneNumber == phoneNumber && hc.CommentType.Type == CommentTypes.Comment.ToString()).Text,
+                            Comments = hotspot?.HotspotComments.ToList().FirstOrDefault(hc => hc.User.PhoneNumber == phoneNumber && hc.CommentType.Type == CommentTypes.Comment.ToString()).Text,
                             Location = new PositionModel
                             {
                                 Lat = hotspot.Latitude,

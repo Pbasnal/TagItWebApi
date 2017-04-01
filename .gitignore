@@ -1,1 +1,6 @@
 packages/*
+*.pdb
+*.dll
+TagItWebApi/bin/*
+TagItWebApi/obj/*
+*.cache

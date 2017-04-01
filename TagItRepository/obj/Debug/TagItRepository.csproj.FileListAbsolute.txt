@@ -1,0 +1,16 @@
+N:\Projects\TagItWebApi\TagItRepository\bin\Debug\TagItRepository.dll.config
+N:\Projects\TagItWebApi\TagItRepository\bin\Debug\TagItRepository.dll
+N:\Projects\TagItWebApi\TagItRepository\bin\Debug\TagItRepository.pdb
+N:\Projects\TagItWebApi\TagItRepository\bin\Debug\EntityFramework.dll
+N:\Projects\TagItWebApi\TagItRepository\bin\Debug\EntityFramework.SqlServer.dll
+N:\Projects\TagItWebApi\TagItRepository\bin\Debug\TagIt.Common.dll
+N:\Projects\TagItWebApi\TagItRepository\bin\Debug\TagItDatabaseModels.dll
+N:\Projects\TagItWebApi\TagItRepository\bin\Debug\TagItViewModels.dll
+N:\Projects\TagItWebApi\TagItRepository\bin\Debug\TagIt.Common.pdb
+N:\Projects\TagItWebApi\TagItRepository\bin\Debug\TagItDatabaseModels.pdb
+N:\Projects\TagItWebApi\TagItRepository\bin\Debug\TagItViewModels.pdb
+N:\Projects\TagItWebApi\TagItRepository\bin\Debug\EntityFramework.xml
+N:\Projects\TagItWebApi\TagItRepository\bin\Debug\EntityFramework.SqlServer.xml
+N:\Projects\TagItWebApi\TagItRepository\obj\Debug\TagItRepository.csprojResolveAssemblyReference.cache
+N:\Projects\TagItWebApi\TagItRepository\obj\Debug\TagItRepository.dll
+N:\Projects\TagItWebApi\TagItRepository\obj\Debug\TagItRepository.pdb

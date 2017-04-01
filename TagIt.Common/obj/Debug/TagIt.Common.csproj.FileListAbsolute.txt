@@ -1,0 +1,5 @@
+N:\Projects\TagItWebApi\TagIt.Common\bin\Debug\TagIt.Common.dll
+N:\Projects\TagItWebApi\TagIt.Common\bin\Debug\TagIt.Common.pdb
+N:\Projects\TagItWebApi\TagIt.Common\obj\Debug\TagIt.Common.csprojResolveAssemblyReference.cache
+N:\Projects\TagItWebApi\TagIt.Common\obj\Debug\TagIt.Common.dll
+N:\Projects\TagItWebApi\TagIt.Common\obj\Debug\TagIt.Common.pdb

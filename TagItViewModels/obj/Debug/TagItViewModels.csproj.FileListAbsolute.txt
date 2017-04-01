@@ -1,0 +1,12 @@
+N:\Projects\TagItWebApi\TagItViewModels\bin\Debug\TagItViewModels.dll.config
+N:\Projects\TagItWebApi\TagItViewModels\bin\Debug\TagItViewModels.dll
+N:\Projects\TagItWebApi\TagItViewModels\bin\Debug\TagItViewModels.pdb
+N:\Projects\TagItWebApi\TagItViewModels\bin\Debug\EntityFramework.dll
+N:\Projects\TagItWebApi\TagItViewModels\bin\Debug\EntityFramework.SqlServer.dll
+N:\Projects\TagItWebApi\TagItViewModels\bin\Debug\TagItDatabaseModels.dll
+N:\Projects\TagItWebApi\TagItViewModels\bin\Debug\TagItDatabaseModels.pdb
+N:\Projects\TagItWebApi\TagItViewModels\bin\Debug\EntityFramework.xml
+N:\Projects\TagItWebApi\TagItViewModels\bin\Debug\EntityFramework.SqlServer.xml
+N:\Projects\TagItWebApi\TagItViewModels\obj\Debug\TagItViewModels.csprojResolveAssemblyReference.cache
+N:\Projects\TagItWebApi\TagItViewModels\obj\Debug\TagItViewModels.dll
+N:\Projects\TagItWebApi\TagItViewModels\obj\Debug\TagItViewModels.pdb

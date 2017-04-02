@@ -20,7 +20,7 @@ namespace TagItRepository
                 {
                     var doesUserExists = dbContext.Users.FirstOrDefault(u => user.PhoneNumber == u.PhoneNumber);
 
-                    if (doesUserExists != null) return new RepositoryResponseMessage { Code = TagItResponseCode.FailUserExists, Message = TagItResponseMessage.UserAlreadyExists };
+                    if (doesUserExists != null) return new RepositoryResponseMessage { Code = TagItResponseCode.Success, Message = TagItResponseMessage.UserAlreadyExists };
 
                     var newUser = new User
                     {
